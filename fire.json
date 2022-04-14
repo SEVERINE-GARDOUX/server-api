@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dvdtheque-5b180",
+  "private_key_id": "c7f86a9c388d5134f3c33c542e8d5538fd047f18",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEugIBADANBgkqhkiG9w0BAQEFAASCBKQwggSgAgEAAoIBAQDdUATwG9EkLlgs\nzLNqEq1A7Qt0Q0agWCFZApvJlmTW3KgH6lvK9B1vDEE78/jiVB8VmgG97h+tgbi8\nw5+tmowj9ciLcT2W7uNProCU/gF/Dx81Oc3FBRDHndWJY2B5MM1DY4mNbKcFLgPM\ntwTt3TO69cho8a1SctwKiCh1fc4Iv+dlrqBUo8BFA/uOlx2+SgAse4TKMJfF9Gak\noxrwoHWSNOFKB6ZTteKinwhvLpQzGf1u7UwvA080LQhKLYSRLQA9E69mY0oWXI2+\n603BCt7dxL9JY8cMzaWbLKQi+jsYf5mupGUm36qbdP2IZco/s/K1Zjc1V0cP/xEr\ngy91cjYtAgMBAAECgf986y3eWdUzFvWuU9zxgplIjIRqm47B8vzfwRkuMDW7EdHG\npgIqDKCQjdpEfPF+zvy8tLFHA6Hdzdr4sXLwCswPgCwyiTi6eRzVXSo27yjpDyAO\naxI6oyFVi0F8yxspTOKPpx99NFcSFWcPpj6iBLmuTg1RLxkl8K9DQpeTue8SADNk\nZjwfc68o7X9cTMP63co1Rw7y/XPa2ph93J1l9m8Do5dkvPJSe1WIWQmE0mmZl8L/\ngu9Pn8Z6aSie552XnCQM4v05aOPAgedYafyWaCUdDST5DSc3kUba25TCuiY9B4b4\n2e5PiieDqBjfd8nPnPHrxri7+igEzXiwEfPjxf8CgYEA8EH9PZbiD3+7kzlaxBVz\nsRyPNAxdJSgGYm6m5PJGcLWlR80pp8zg/5Ew+zQ9YYX5TkZciHWumrDdMGwp2DFM\n28Mr73VyYCS/sMvlbiHO2PObHKEewO1w6uYHa3Jj1JhQWWxLxcMIQJHi7cfieJkc\nu+9GFVK95bNbcEKsLjlWtgsCgYEA69A/xsx8DZVAKAsvubepikecHrv38K1U27y0\nRXo6bW20ndvziX4ZtBgxsVeJrfFTa6z0GDDPriGK80WKyLnUNstZ8x8uuA1BWTlT\nPKEx3gRjpGLUTWXWGL3D5TavXNFc17sIL32VCkYkBfSpH40TqPvEpBS9AbOFhzzr\nITH2f6cCgYBe7VPHj+QFx6wvQUwRiYBKjEQwhmoPEj9jiOC8ONWIFt0U/4Tj3dlQ\nYOd/eWZ/L9YPDVHmQMkaKaNbTIFEAEaj1ft4A2mLfzmV+xnNZ+I4ahfxOd/Szn38\n8aIg2/OBviSREG7n1mVeTcXhuUZL7AMkZifEqQqKxVDtjApHwTP3fQKBgB0JibDr\nISNzC3Fi3z+ZNBFI/Bp0vvUuAtMEC5a6lFNBPQprOTPnCTc5+3SA+P0oSENsCqqn\n6ArjKn8GQy6wY0dUBwF/B3u2diOMgYlnuAJEvBhT6xyUu6ZUR7kD4NgnF62g5EMk\nzaN0O59YHzM5ZgBa8D3cJ+H7vyeGAtYVlurlAoGABQddu0ixcntozh4RIVs8i0Rh\nEGhdLzdRqqDjHhat8PitwClMZWCk3zyhbqqqPPzejKOO0Y3G5i1z3kmEDB5R1D2K\nF36swEs7jztqHTwao+r3hLYp59HeptMwqLQbNfn80Xy39YoWp9SbUJp1f/VBStz7\ngpfc+Ve5IVkk0WebsaI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-kb7th@dvdtheque-5b180.iam.gserviceaccount.com",
+  "client_id": "112913509169069009552",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-kb7th%40dvdtheque-5b180.iam.gserviceaccount.com"
+}
