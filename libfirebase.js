@@ -26,20 +26,20 @@ const data = []
 snapshot.forEach(doc => {
     const dvd = {
         id:doc.id,
-        contenu:doc.data()
+        content:doc.data()
         }
         data.push(dvd)
 });
 return data
 }
 
-async function updateData (id, contenu) {
+async function update (id, content) {
     const DvdRef = db.collection('DVDtheque').doc(id);
-    const res = await DvdRef.update({contenu});
+    const res = await DvdRef.update({content});
 }
 
 async function deleteData (id) { //Suppression de données
     const res = await db.collection('DVDtheque').doc(id).delete();
 }
 
-module.exports = {setData, getData, deleteData, updateData}
+module.exports = {setData, getData, deleteData, update}

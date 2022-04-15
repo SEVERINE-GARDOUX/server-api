@@ -1,7 +1,7 @@
 //server
 const express = require('express')
 const bodyParser = require('body-parser')
-const {getData, setData, deleteData, updateData} = require ('./libfirebase')
+const {getData, setData, deleteData, update} = require ('./libfirebase')
 
 const app = express()
 const port = 3000
@@ -27,7 +27,7 @@ app.post('/', (req, res) => {
 })
 
 app.put('/:id', (req, res) => { //mise a jour de l'article
-    updateData(req.params.id, req.body)
+    update(req.params.id, req.body)
     res.send(req.body)
 })
 

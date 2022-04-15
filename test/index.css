@@ -1,0 +1,67 @@
+*{margin: 0;
+ padding: 0;}
+
+img {margin-left: 350px;
+    margin-top: 300px;
+    border-radius: 25px;}
+
+.anim{position: relative;
+        z-index: -1; 
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: 800px;}
+
+        .rot {width: 10px;
+            background-image: url(./ahmed.jpg);
+            position: absolute;
+            -webkit-animation: cw 7s linear infinite;
+          }
+          
+ @-webkit-keyframes cw {
+    from {-webkit-transform: rotate(0deg)
+        translateX(20px);
+}
+to {
+-webkit-transform:rotate(360deg)  translateX(80px);}
+}
+      
+.mot {position: absolute;
+        animation-delay: 2.5s;
+        animation-name: anim;
+        animation: anim  2s linear infinite ;
+        font-size: 20px;
+        color: red;
+        left: 1280px;}
+      
+.mot1 {position: absolute;
+        animation-delay: 2s;
+        animation-name: anim;
+        animation: anim  2.5s linear infinite ;
+        font-size: 20px;
+        color: blue;
+        left: 100px;}
+      
+.mot2 {position: absolute;
+        animation-delay: 2s;
+        animation-name: anim;
+        animation: anim  3.5s linear infinite;
+        font-size: 25px;
+        color: orangered;
+        left: 300px;}       
+      
+.mot3 {position: absolute;
+        animation-delay: 3s;
+        animation-name: anim;
+        animation: anim  2.8s linear infinite;
+        font-size: 20px;
+        color: darkblue;
+        left: 700px;}
+        
+@keyframes anim {
+        0% {transform : translateY(0px) rotate(0deg);
+            opacity: 1;}
+        100% {transform: translateY(-1800px) rotate(360deg);
+              opacity : 0;}
+      }
+           
